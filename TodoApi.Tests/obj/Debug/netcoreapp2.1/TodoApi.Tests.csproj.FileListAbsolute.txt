@@ -1,0 +1,17 @@
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/TodoApi.Tests.deps.json
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/TodoApi.Tests.runtimeconfig.json
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/TodoApi.Tests.runtimeconfig.dev.json
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/TodoApi.Tests.dll
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/TodoApi.Tests.pdb
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/TodoApi.dll
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/bin/Debug/netcoreapp2.1/TodoApi.pdb
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/obj/Debug/netcoreapp2.1/TodoApi.Tests.csprojAssemblyReference.cache
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/obj/Debug/netcoreapp2.1/TodoApi.Tests.csproj.CoreCompileInputs.cache
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/obj/Debug/netcoreapp2.1/TodoApi.Tests.AssemblyInfoInputs.cache
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/obj/Debug/netcoreapp2.1/TodoApi.Tests.AssemblyInfo.cs
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/obj/Debug/netcoreapp2.1/TodoApi.Tests.csproj.CopyComplete
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/obj/Debug/netcoreapp2.1/TodoApi.Tests.dll
+/Users/samuelrae/learn/azure/azure-unit-testing/TodoApi.Tests/obj/Debug/netcoreapp2.1/TodoApi.Tests.pdb
